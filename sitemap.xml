@@ -1,9 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://usifarmixconcreto.com.br/</loc>
-    <lastmod>2026-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-</urlset>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Google Search Console -->
+  <meta name="google-site-verification" content="P_F_70NayEvQeayHRoJjSMN8P300OQwsHnuwc_eqJAQ">
+
+  <!-- SEO PRINCIPAL -->
+  <title>Concreto Usinado e Bombeado em Guarulhos | Usifarmix Concreto</title>
+  <meta name="description" content="Concreto usinado e concreto bombeado em Guarulhos e região. Fornecimento para obras, lajes e fundações. Atendimento rápido pelo WhatsApp.">
+  <meta name="robots" content="index, follow">
+
+  <!-- SEO LOCAL -->
+  <meta name="geo.region" content="BR-SP">
+  <meta name="geo.placename" content="Guarulhos">
+  <meta name="author" content="Usifarmix Concreto">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f5f5f5;
+      color: #222;
+      line-height: 1.6;
+    }
+    .hero {
+      background: linear-gradient(180deg, #1f2a33, #121a20);
+      color: #fff;
+      text-align: center;
+      padding: 70px 20px;
+    }
+    .hero h1 {
+      font-size: 32px;
+      max-width: 900px;
+      margin: 0 auto 15px;
+    }
+    .hero p {
+      font-size: 16px;
+      opacity: 0.9;
+      margin-bottom: 30px;
+    }
+    .btn {
+      display: inline-block;
+      background: #25d366;
+      color: #fff;
+      padding: 15px 28px;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 16px;
+    }
+    section {
+      background: #fff;
+      margin: 20px;
+      padding: 25px;
+      border-radius: 8px;
+    }
+    h2 {
+      margin-top: 0;
+    }
+    footer {
+      background: #1f2a33;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- HERO -->
+  <div class="hero">
+    <h1>Concreto Usinado e Bombeado em Guarulhos e Região</h1>
+    <p>Fornecimento de concreto para obras, lajes e fundações com rapidez e confiança.</p>
+    <a class="btn" href="https://api.whatsapp.com/send?phone=5511972214500" target="_blank">
+      Solicitar orçamento no WhatsApp
+    </a>
+  </div>
+
+  <!-- SERVIÇOS -->
+  <section>
+    <h2>Concreto Usinado</h2>
+    <p>
+      Trabalhamos com concreto usinado de alta qualidade para obras residenciais,
+      comerciais e industriais em Guarulhos e cidades próximas.
+    </p>
+  </section>
+
+  <section>
+    <h2>Concreto Bombeado</h2>
+    <p>
+      O concreto bombeado é ideal para locais de difícil acesso, garantindo agilidade,
+      economia e melhor acabamento da sua obra.
+    </p>
+  </section>
+
+  <!-- REGIÃO -->
+  <section>
+    <h2>Atendimento em
